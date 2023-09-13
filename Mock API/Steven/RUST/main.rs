@@ -39,7 +39,7 @@ async fn main() -> std::io::Result<()> {
         App::new()
             .service(predict_model)
     })
-    .bind("127.0.0.1:8000")?
+    .bind("127.0.0.1:8008")?
     .run()
     .await
 }
