@@ -1,0 +1,9 @@
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\aws_smithy_xml-7df3bf39700bc999.rmeta: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\decode.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\encode.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\escape.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\unescape.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\aws_smithy_xml-7df3bf39700bc999.d: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\decode.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\encode.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\escape.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\unescape.rs
+
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\lib.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\decode.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\encode.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\escape.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-xml-0.54.4\src\unescape.rs:

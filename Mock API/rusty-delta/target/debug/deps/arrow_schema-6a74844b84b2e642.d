@@ -1,0 +1,9 @@
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\arrow_schema-6a74844b84b2e642.rmeta: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src/lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src\datatype.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src\error.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src\field.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src\schema.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\arrow_schema-6a74844b84b2e642.d: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src/lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src\datatype.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src\error.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src\field.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src\schema.rs
+
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src/lib.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src\datatype.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src\error.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src\field.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\arrow-schema-28.0.0\src\schema.rs:

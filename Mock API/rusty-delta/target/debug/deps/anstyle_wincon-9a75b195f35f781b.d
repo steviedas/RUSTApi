@@ -1,0 +1,9 @@
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\anstyle_wincon-9a75b195f35f781b.rmeta: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\console.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\lockable.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\stream.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\windows.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\anstyle_wincon-9a75b195f35f781b.d: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\console.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\lockable.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\stream.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\windows.rs
+
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\lib.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\console.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\lockable.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\stream.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-wincon-1.0.1\src\windows.rs:

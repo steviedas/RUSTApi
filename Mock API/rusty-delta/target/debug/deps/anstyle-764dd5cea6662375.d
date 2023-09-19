@@ -1,0 +1,10 @@
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\anstyle-764dd5cea6662375.rmeta: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\macros.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\color.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\effect.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\reset.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\style.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\anstyle-764dd5cea6662375.d: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\macros.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\color.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\effect.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\reset.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\style.rs
+
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\lib.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\macros.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\color.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\effect.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\reset.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\anstyle-1.0.0\src\style.rs:

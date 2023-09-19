@@ -1,0 +1,16 @@
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\aws_types-66a5df2ec1405243.rmeta: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\app_name.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\build_metadata.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\config.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\endpoint.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\os_shim_internal.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\region.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\sdk_config.rs C:\Users\StevenDas\Documents\RUSTApi\Mock\ API\rusty-delta\target\debug\build\aws-types-609c1f066b3efbaa\out/build_env.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\aws_types-66a5df2ec1405243.d: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\app_name.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\build_metadata.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\config.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\endpoint.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\os_shim_internal.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\region.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\sdk_config.rs C:\Users\StevenDas\Documents\RUSTApi\Mock\ API\rusty-delta\target\debug\build\aws-types-609c1f066b3efbaa\out/build_env.rs
+
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\lib.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\app_name.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\build_metadata.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\config.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\endpoint.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\os_shim_internal.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\region.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-types-0.54.1\src\sdk_config.rs:
+C:\Users\StevenDas\Documents\RUSTApi\Mock\ API\rusty-delta\target\debug\build\aws-types-609c1f066b3efbaa\out/build_env.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.54.1
+# env-dep:OUT_DIR=C:\\Users\\StevenDas\\Documents\\RUSTApi\\Mock API\\rusty-delta\\target\\debug\\build\\aws-types-609c1f066b3efbaa\\out

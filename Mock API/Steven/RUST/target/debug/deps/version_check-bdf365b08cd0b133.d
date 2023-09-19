@@ -1,0 +1,10 @@
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\Steven\RUST\target\debug\deps\version_check-bdf365b08cd0b133.rmeta: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\Steven\RUST\target\debug\deps\libversion_check-bdf365b08cd0b133.rlib: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\Steven\RUST\target\debug\deps\version_check-bdf365b08cd0b133.d: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs
+
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\lib.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\version.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\channel.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\version_check-0.9.4\src\date.rs:

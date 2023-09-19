@@ -1,5 +1,5 @@
 [package]
-name = "rusty-delta"
+name = "python-rust-delta"
 version = "0.1.0"
 edition = "2021"
 

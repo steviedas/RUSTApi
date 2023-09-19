@@ -1,0 +1,10 @@
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\aws_http-e933a78c2dc5a25e.rmeta: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\auth.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\recursion_detection.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\retry.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\user_agent.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\content_encoding.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\aws_http-e933a78c2dc5a25e.d: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\auth.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\recursion_detection.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\retry.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\user_agent.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\content_encoding.rs
+
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\lib.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\auth.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\recursion_detection.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\retry.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\user_agent.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-http-0.54.1\src\content_encoding.rs:

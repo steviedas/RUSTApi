@@ -1,0 +1,11 @@
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\url-76f7e3559119daff.rmeta: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\host.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\origin.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\parser.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\path_segments.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\slicing.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\quirks.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\url-76f7e3559119daff.d: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\host.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\origin.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\parser.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\path_segments.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\slicing.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\quirks.rs
+
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\lib.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\host.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\origin.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\parser.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\path_segments.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\slicing.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.3.1\src\quirks.rs:

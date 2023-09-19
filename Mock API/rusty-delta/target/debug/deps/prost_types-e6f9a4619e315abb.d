@@ -1,0 +1,10 @@
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\prost_types-e6f9a4619e315abb.rmeta: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\datetime.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\compiler.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\protobuf.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\libprost_types-e6f9a4619e315abb.rlib: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\datetime.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\compiler.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\protobuf.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\prost_types-e6f9a4619e315abb.d: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\datetime.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\compiler.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\protobuf.rs
+
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\lib.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\datetime.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\compiler.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\prost-types-0.11.9\src\protobuf.rs:

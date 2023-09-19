@@ -1,0 +1,9 @@
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\hyper_rustls-820838537212eb1d.rmeta: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\config.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\connector.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\connector\builder.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\stream.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\hyper_rustls-820838537212eb1d.d: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\config.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\connector.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\connector\builder.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\stream.rs
+
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\lib.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\config.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\connector.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\connector\builder.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\hyper-rustls-0.23.2\src\stream.rs:

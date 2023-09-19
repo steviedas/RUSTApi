@@ -1,0 +1,8 @@
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\aws_smithy_http_tower-d4be8e05a33e3acb.rmeta: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-http-tower-0.54.4\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-http-tower-0.54.4\src\dispatch.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-http-tower-0.54.4\src\map_request.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-http-tower-0.54.4\src\parse_response.rs
+
+C:\Users\StevenDas\Documents\RUSTApi\Mock API\rusty-delta\target\debug\deps\aws_smithy_http_tower-d4be8e05a33e3acb.d: C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-http-tower-0.54.4\src\lib.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-http-tower-0.54.4\src\dispatch.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-http-tower-0.54.4\src\map_request.rs C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-http-tower-0.54.4\src\parse_response.rs
+
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-http-tower-0.54.4\src\lib.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-http-tower-0.54.4\src\dispatch.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-http-tower-0.54.4\src\map_request.rs:
+C:\Users\StevenDas\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aws-smithy-http-tower-0.54.4\src\parse_response.rs:
