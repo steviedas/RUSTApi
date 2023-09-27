@@ -10,7 +10,7 @@ from frp_api.routes import engine_autocoding
 from frp_api.settings.api_settings import APISettings
 from frp_api.settings.logging import LOGGING_CONFIG
 
-app = FastAPI(title="ecli-checker-api", description="Ecli-Checker API", version="0.0.0")
+app = FastAPI(title="frp-api", description="API that serves content from the Engine Autocoding delta table", version="0.0.0")
 
 api_settings = APISettings()
 dictConfig(LOGGING_CONFIG(logging.INFO))

@@ -1,15 +1,13 @@
+from pathlib import Path
 from typing import Dict, List
 
 from deltalake import DeltaTable
-from pathlib import Path
-
-from deltalake._internal import PrimitiveType
 
 from frp_api.models.table import Table, TableRow
 from frp_api.utils.thread_safe_singleton import ThreadSafeSingleton
-from frp_api.utils.utils import serialize_pyarrow_dict
+from frp_api.utils.utils import serialize_pyarrow_dict, get_logger_for_class
 
-
+logger=get_logger_for_class(__name__,'DeltaTableService')
 class DeltaTableService(metaclass=ThreadSafeSingleton):
     def __init__(self, table_path: str):
         table_path_ = Path(table_path)

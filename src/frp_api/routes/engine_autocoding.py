@@ -8,7 +8,7 @@ from frp_api.settings.api_settings import APISettings
 from frp_api.utils.utils import get_logger_for_class
 
 router = APIRouter()
-logger = get_logger_for_class(__name__, "Jurisprudentie")
+logger = get_logger_for_class(__name__, "EngineAutoCodingRouter")
 api_settings = APISettings()
 
 delta_table_service = DeltaTableService(table_path=api_settings.EAC_TABLE_PATH)

@@ -1,4 +1,3 @@
-from logging import getLogger
 
 LOGGING_CONFIG = lambda log_level: {
     "version": 1,
@@ -28,6 +27,3 @@ LOGGING_CONFIG = lambda log_level: {
     },
 }
 
-
-def get_logger_for_class(path: str, class_name: str):
-    return getLogger(f"ecli-checker.{path}.{class_name}")
