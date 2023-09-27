@@ -1,5 +1,5 @@
 from datetime import datetime
-from typing import Dict, List, Optional, Union, Any
+from typing import Dict, List, Optional, Union
 
 from pydantic import BaseModel
 
@@ -35,7 +35,7 @@ class TableRow(BaseModel):
     rownum: str
     url: Optional[str] = None
     titles: Optional[List[str]] = None
-    describes: List[Dict[str, Optional[Any]]]
+    describes: List[Dict[str, Optional[Union[str, List[str], Dict, List[Dict]]]]]
 
 
 class Table(BaseModel):

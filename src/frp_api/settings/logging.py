@@ -1,3 +1,4 @@
+import sys
 
 LOGGING_CONFIG = lambda log_level: {
     "version": 1,
@@ -9,7 +10,7 @@ LOGGING_CONFIG = lambda log_level: {
         "default": {
             "formatter": "standard",
             "class": "logging.StreamHandler",
-            "stream": "ext://sys.stderr",  # Default is stderr
+            "stream": sys.stderr,
         },
     },
     "loggers": {

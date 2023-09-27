@@ -7,7 +7,9 @@ from frp_api.models.table import Table, TableRow
 from frp_api.utils.thread_safe_singleton import ThreadSafeSingleton
 from frp_api.utils.utils import serialize_pyarrow_dict, get_logger_for_class
 
-logger=get_logger_for_class(__name__,'DeltaTableService')
+logger = get_logger_for_class(__name__, 'DeltaTableService')
+
+
 class DeltaTableService(metaclass=ThreadSafeSingleton):
     def __init__(self, table_path: str, azure_storage_account_name=None, azure_storage_access_key=None):
         if azure_storage_account_name and azure_storage_access_key and table_path.startswith("abfss://"):
@@ -28,10 +30,10 @@ class DeltaTableService(metaclass=ThreadSafeSingleton):
         return {field.name: field.type.type for field in self.schema.fields}
 
     def get_table(
-        self, sort_key: str, sort_dir: str, page_size: int, offset: int
+            self, sort_key: str, sort_dir: str, page_size: int, offset: int
     ) -> Table:
         assert (
-            sort_key in self.field_names
+                sort_key in self.field_names
         ), f"Sort key: {sort_key} does not exist as a column in the table"
         slice: List[Dict] = (
             self.delta_table.to_pyarrow_dataset()
