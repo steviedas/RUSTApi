@@ -10,7 +10,7 @@ LOGGING_CONFIG = lambda log_level: {
         "default": {
             "formatter": "standard",
             "class": "logging.StreamHandler",
-            "stream": sys.stderr,
+            "stream": sys.stdout,
         },
     },
     "loggers": {
