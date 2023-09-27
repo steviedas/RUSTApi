@@ -42,6 +42,8 @@ This ensures that the environment variables from the `.env` file are loaded when
 
 With the environment variables in place, you can run the application as you would any FastAPI application.
 
----
 
-Adjust as needed based on additional details or specific requirements of your project.
+## API Docs
+
+
+Go to http://localhost:8000/docs to test the endpoints
