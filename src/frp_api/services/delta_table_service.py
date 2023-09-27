@@ -9,9 +9,15 @@ from frp_api.utils.utils import serialize_pyarrow_dict, get_logger_for_class
 
 logger=get_logger_for_class(__name__,'DeltaTableService')
 class DeltaTableService(metaclass=ThreadSafeSingleton):
-    def __init__(self, table_path: str):
-        table_path_ = Path(table_path)
-        self.delta_table = DeltaTable(table_path_)
+    def __init__(self, table_path: str, azure_storage_account_name=None, azure_storage_access_key=None):
+        if azure_storage_account_name and azure_storage_access_key and table_path.startswith("abfss://"):
+            logger.info(f"Using the Azure storage acocunt: {azure_storage_account_name}") 
+            storage_options = {"azure_storage_account_name": azure_storage_account_name, "azure_storage_access_key": azure_storage_access_key}
+            self.delta_table = DeltaTable(table_path, storage_options=storage_options)
+        else:
+            table_path_ = Path(table_path)
+            logger.info(f"Using local file system: {table_path_}") 
+            self.delta_table = DeltaTable(table_path_)
         self.schema = self.delta_table.schema()
         self.field_names = list(map(lambda x: x.name, self.schema.fields))
 

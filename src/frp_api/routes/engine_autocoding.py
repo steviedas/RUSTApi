@@ -11,7 +11,7 @@ router = APIRouter()
 logger = get_logger_for_class(__name__, "EngineAutoCodingRouter")
 api_settings = APISettings()
 
-delta_table_service = DeltaTableService(table_path=api_settings.EAC_TABLE_PATH)
+delta_table_service = DeltaTableService(table_path=api_settings.EAC_TABLE_PATH, azure_storage_account_name=api_settings.AZURE_STORAGE_ACCOUNT_NAME, azure_storage_access_key=api_settings.AZURE_STORAGE_ACCESS_KEY)
 
 
 @router.get(
