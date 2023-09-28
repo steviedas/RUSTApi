@@ -1,11 +1,12 @@
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 from deltalake import DeltaTable
 
 from frp_api.models.table import Table, TableRow
 from frp_api.utils.thread_safe_singleton import ThreadSafeSingleton
 from frp_api.utils.utils import serialize_pyarrow_dict, get_logger_for_class
+import pyarrow.compute as pc 
 
 logger = get_logger_for_class(__name__, 'DeltaTableService')
 
@@ -29,20 +30,28 @@ class DeltaTableService(metaclass=ThreadSafeSingleton):
     def get_table_schema(self) -> Dict:
         return {field.name: field.type.type for field in self.schema.fields}
 
-    def get_table(
-            self, sort_key: str, sort_dir: str, page_size: int, offset: int
-    ) -> Table:
-        assert (
-                sort_key in self.field_names
-        ), f"Sort key: {sort_key} does not exist as a column in the table"
+    def get_table(self, sort_key: str, sort_dir: str, page_size: int, offset: int, filter_column: str = None, filter_value: str = None
+            ) -> Table:
+        
+        assert(sort_key in self.field_names), f"Sort key: {sort_key} does not exist as a column in the table"
+
+        if filter_column != None and filter_value != None:
+            assert(filter_column in self.field_names), f"Filter column: {filter_column} does not exist as a column in the table"
+        elif filter_column != None and filter_value is None:
+            assert("A filter value has not been set")
+        elif filter_column is None and filter_value != None:
+            assert("A filter column has not been set") 
+        else: pass
+
         slice: List[Dict] = (
             self.delta_table.to_pyarrow_dataset()
+            .filter(pc.field(filter_column) ==  filter_value)
             .sort_by([(sort_key, sort_dir)])
             .to_table()
             .slice(offset, page_size)
             .to_pylist()
         )
-
+        
         rows: List[TableRow] = []
         for i, row in enumerate(slice):
             serialized_row = serialize_pyarrow_dict(row)

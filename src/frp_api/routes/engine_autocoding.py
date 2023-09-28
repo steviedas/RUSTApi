@@ -25,5 +25,7 @@ def get_engine_autocoding_table(
     sort_dir: str = "descending",
     page_size: int = 20,
     offset: int = 0,
+    filter_column: str = "TOC",
+    filter_value: str = "SRT"
 ) -> Table:
-    return delta_table_service.get_table(sort_key, sort_dir, page_size, offset)
+    return delta_table_service.get_table(sort_key, sort_dir, page_size, offset, filter_column, filter_value)
