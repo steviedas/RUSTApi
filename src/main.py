@@ -10,6 +10,7 @@ from frp_api.routes import engine_autocoding
 from frp_api.settings.api_settings import APISettings
 from frp_api.settings.logging import LOGGING_CONFIG
 
+# Configure the Fast API application
 app = FastAPI(title="frp-api", description="API that serves content from the Engine Autocoding delta table", version="0.0.0")
 
 api_settings = APISettings()
